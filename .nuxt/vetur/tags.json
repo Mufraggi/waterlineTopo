@@ -1,0 +1,11 @@
+{
+  "MyFooter": {
+    "description": "Auto imported from components/MyFooter.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "MyHeader": {
+    "description": "Auto imported from components/myHeader.vue"
+  }
+}

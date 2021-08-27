@@ -1,0 +1,23 @@
+[
+  {
+    "name": "spot",
+    "path": "/spot",
+    "component": "/home/mufraggi/Projet/waterlineTopo/pages/spot/index.vue",
+    "chunkName": "pages/spot/index",
+    "_name": "_6ee3f60e"
+  },
+  {
+    "name": "spot-slug",
+    "path": "/spot/:slug",
+    "component": "/home/mufraggi/Projet/waterlineTopo/pages/spot/_slug.vue",
+    "chunkName": "pages/spot/_slug",
+    "_name": "_7251389e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/mufraggi/Projet/waterlineTopo/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7160f98e"
+  }
+]
